@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar datos
-datos = pd.read_csv("train.csv")  # Asegúrate de reemplazar "ruta_del_archivo.csv" con la ruta real del archivo
+datos = pd.read_csv("train.csv")  
 
 # Exploración rápida de datos
 print("Train Summary:")
